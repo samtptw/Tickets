@@ -5,8 +5,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
-<<<<<<< HEAD
-=======
+
 
 #2016/1/28 6:45 AM update
->>>>>>> db3794cb870b1b9b09f61121df221e3ea05d01a8
+
